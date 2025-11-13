@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá, eu sou Ana Gonzaga! 👋
+- 💻 Engenheira de Software focada em Back-end e Ciência de Dados
+- 🎓 Mestre em Engenharia Eletrônica
+- 🌱 Atualmente aprendendo Cloud e DevOps
+- 🚀 Principais tecnologias: Python, SQL, Docker, Git e Linux
+- 📫 Contato: [LinkedIn](https://www.linkedin.com/in/seuusuario) | email@exemplo.com
 
-<!--
-**gonzagaAna/gonzagaAna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projetos em Destaque
+- [Projeto1](https://github.com/gonzagaAna/projeto1): Breve descrição do projeto.
+- [Projeto2](https://github.com/gonzagaAna/projeto2): Breve descrição do projeto.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Estatísticas
+![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=gonzagaAna&show_icons=true&theme=radical)
